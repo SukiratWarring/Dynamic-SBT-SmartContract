@@ -13,7 +13,7 @@ module.exports = {
     strict: true,
   },
   networks: {
-    mumbai: {
+    june: {
       url: process.env.RPC_URL,
       accounts: [process.env.PRIVATE_KEY],
     },
